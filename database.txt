@@ -1,0 +1,11 @@
+AKUN Salim tes 920
+TOKO UI_Store Depok
+PRODUK Buku 350 Halliday 20 200000
+PRODUK Buku 400 H.Anton 13 250000
+PRODUK Pulpen 50 Hitam 100 4000
+PRODUK Penggaris 70 30cm 55 15000
+PRODUK Lem 120 Perekat 43 7000
+PRODUK Pensil 50 - 12 3500
+PRODUK Atlas 200 AtlasDunia 7 24000
+PRODUK CorrectionTape 110 10m 50 12000
+AKUN Wiellona wiello 500000
