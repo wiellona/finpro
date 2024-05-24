@@ -6,7 +6,7 @@ Salim (2306204604)
 Wiellona Darlene Oderia Saragih (2306264396)
 
 Penjelasan program :
-Pada Proyek Akhir Semester Pemrograman Lanjut 2024, kami membuat simulasi online shop yang bernama Trova. Program ini dibuat untuk sisi penjual dan pembeli. Program ini mengimplementasi materi Pemrograman Lanjut: function, dynamic data structure (dalam hal ini digunakan BST), searching/sorting, file handling, dan parallel programming.
+Pada Proyek Akhir Semester Pemrograman Lanjut 2024, kami membuat simulasi online shop yang bernama Trova. Program ini dibuat untuk sisi penjual dan pembeli. Program ini mengimplementasi materi Pemrograman Lanjut: function, dynamic data structure (dalam hal ini digunakan BST), searching/sorting, dan file handling.
 
 Pada menu awal, pengguna dapat melakukan registrasi jika belum memiliki akun, kemudian dapat login. Terdapat fitur lainnya yaitu top up saldo yang dapat digunakan untuk mensimulasikan transaksi pada program ini. Setelah login, pengguna dapat memilih ingin login sebagai penjual atau pembeli. Pada sisi penjual, pengguna dapat membuat toko, menghapus toko, menambah produk, menghapus produk, dan mengedit variabel-variabel produk. Di sisi lain, pengguna dapat menggunakan program ini sebagai pembeli, yang dapat melakukan pencarian produk-produk yang dijual oleh toko-toko yang terdaftar pada program ini. Program dapat menampilkan riwayat pencarian terakhir yang dilakukan pengguna. Pengguna dapat melakukan pencarian produk dan dapat melakukan pembelian produk.
 */
